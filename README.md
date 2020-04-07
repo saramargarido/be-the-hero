@@ -5,7 +5,9 @@
 >A aplicação foi desenvolvida com a finalidade de contribuir com ONGs para que elas possam continuar seu trabalho. A ONG tem uma plataforma onde podem cadastrar seus casos e solicitar ajuda ao usuário que, por sua vez, pode verificar em sua cidade as ONGs que necessitam de auxílio, fazer sua parte e se tornar herói.
 >Be the Hero é uma plataforma para conectar heróis a ONGs. 
 
-![](../header.png)
+![](img_reademe/apresentacao.gif)
+
+![](img_reademe/mobile.png)
 
 ### Tecnologias utilizadas
 
