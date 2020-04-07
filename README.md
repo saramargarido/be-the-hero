@@ -1,5 +1,5 @@
 # Be the Hero - Semana Omnistack 11.0
-> Peojeto criado na Semana Omnistack, proporcionada pela RocketSeat e aulas lecionadas pelo [Diogo Fernandes](https://github.com/diego3g).
+> Projeto criado na Semana Omnistack, proporcionada pela RocketSeat e aulas lecionadas pelo [Diogo Fernandes](https://github.com/diego3g).
 
 
 >A aplicação foi desenvolvida com a finalidade de contribuir com ONGs para que elas possam continuar seu trabalho. A ONG tem uma plataforma onde podem cadastrar seus casos e solicitar ajuda ao usuário que, por sua vez, pode verificar em sua cidade as ONGs que necessitam de auxílio, fazer sua parte e se tornar herói.
